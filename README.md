@@ -12,7 +12,6 @@ O projeto foi criado como uma forma de estudo para explorar conceitos fundamenta
 - Funções e modularização
 - Entrada e saída de dados
 - Lógica de fluxo de conversa
-- (Opcional) Uso de bibliotecas como `nltk` ou `transformers`
 
 ---
 
@@ -89,14 +88,3 @@ Durante o desenvolvimento deste projeto, foram reforçados conceitos como:
 - Suporte a múltiplos idiomas
 
 ---
-
-## 🧑‍💻 Autor
-
-Feito com 💻 por [Seu Nome](https://github.com/seu-usuario)
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-```
