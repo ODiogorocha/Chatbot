@@ -1,4 +1,3 @@
-```markdown
 # 🤖 Chatbot Jarves em Python
 
 Este repositório contém um chatbot simples e modular desenvolvido em Python. O objetivo é praticar conceitos fundamentais da linguagem enquanto se simula uma conversa interativa entre o usuário e o bot.
