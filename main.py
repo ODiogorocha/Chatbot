@@ -1,6 +1,6 @@
 from chatbot import Chatbot
 
-Bot = Chatbot("diogo")
+Bot = Chatbot("Jarves")
 while True:
     frase = Bot.escuta()
     resp = Bot.pensar(frase)
